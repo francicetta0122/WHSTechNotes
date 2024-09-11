@@ -10,3 +10,7 @@ today i finished with the project of code combat.
 
 today i was learning more about phyton, one of the things that i do for learn moire phton is playing code combat and football fantasy.
 
+# september 11, 2024
+
+today we assist to the ceremony for the 9/11.
+

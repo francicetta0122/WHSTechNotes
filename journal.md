@@ -14,3 +14,6 @@ today i was learning more about phyton, one of the things that i do for learn mo
 
 today we assist to the ceremony for the 9/11.
 
+# september 13, 2024
+this week i started doing an hour of python. And i started with a course of coding of minecraft.
+

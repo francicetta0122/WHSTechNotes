@@ -17,3 +17,5 @@ today we assist to the ceremony for the 9/11.
 # september 13, 2024
 this week i started doing an hour of python. And i started with a course of coding of minecraft.
 
+# september 17, 2024
+this week i already finish with the turtle on "an hour of code" and today i started with projectstem.

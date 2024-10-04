@@ -21,3 +21,5 @@ this week i started doing an hour of python. And i started with a course of codi
 this week i already finish with the turtle on "an hour of code" and today i started with projectstem.
 # september 27, 2024
 on this week i started with a course of how to create an AI.
+# october 04, 2024
+this week i finisah tyhe course of engineering programing.

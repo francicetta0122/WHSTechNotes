@@ -27,3 +27,5 @@ This week i finish the course of engineering programing.
 This week i finish the course of AI that i started on september 27.
 # october 18, 2024
 This week i dont do to much because the page of the courses are saying that i have to paid if i want to continue doing the courses so i cant continue.
+# october 25, 2024
+This week we started with the cars.

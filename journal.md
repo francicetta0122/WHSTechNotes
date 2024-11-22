@@ -54,3 +54,5 @@ this day we finish the assignment from yesterday.
 Summary: Recently, there’s been a lot of talk about the rise of AI-generated content on social media and its impact on spreading misinformation. This is a big deal because people are sharing fake news or edited images without realizing it’s not real, and it’s causing confusion, especially during elections or important events. This ties into problem-solving because it shows how critical thinking is needed to figure out what’s true or false, and data analysis is important for tracking how misinformation spreads.
 
 Reflection: Advancements in computer science could really help with this problem. For example, better AI tools could be created to detect and flag fake content before it goes viral. Social media platforms could also use machine learning to identify suspicious patterns in posts and stop bots from spreading misinformation. If tech keeps improving, we might be able to create a system where people can trust what they see online more easily.
+# november 18, 2024
+Next week we are going to celebrates thanks giving day.

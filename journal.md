@@ -69,3 +69,7 @@ The words on the shortlist, like “slop” and “lore,” resonate with my exp
 I believe it is possible to find a balance between meaningful engagement with technology and avoiding “brain rot.” To achieve this, it’s essential to be intentional: to carefully choose the content I consume, set limits on my screen time, and actively seek out experiences that enrich my life, such as reading a good book or spending time outdoors. It also helps me to disconnect from time to time, so I can reconnect with my thoughts and creativity. At the end of the day, it’s about being mindful of how I interact with technology and making choices that truly nurture my well-being.
 # december 16, 2024
 For these winter holidays, what I'm going to do is dye my hair gray and then maybe I'll dye it blue.
+# january 8, 2025
+1)What I enjoyed the most was when we did the codekombat activities. Something I would like to add is more codekombat courses
+2) Something I would like to start this year is developing an AI chat.
+3)Yes, I would like to receive a certification in Python or C++.

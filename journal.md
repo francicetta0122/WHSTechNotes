@@ -81,5 +81,12 @@ The potential TikTok ban in the United States highlights the complex relationshi
 
 To address security concerns while continuing to operate globally, companies like TikTok could implement robust data transparency measures. For instance, TikTok could establish independent audits of its data practices, allowing third-party organizations to assess how user data is collected, stored, and utilized. This transparency could help build trust with users and regulators alike, demonstrating a commitment to ethical data practices. As a developer at TikTok, I would propose a feature that allows users to have greater control over their data, such as a customizable privacy dashboard. This dashboard would enable users to see what data is being collected, how it is used, and provide options to limit data sharing. This aligns with the concepts of data privacy and software ethics we’ve discussed in class, emphasizing the importance of user agency and informed consent in app development. By prioritizing user privacy, TikTok could mitigate security concerns while maintaining its global presence.
 
+# january 27, 2025
 
+| Name     | Car | Mistake |
+| :------- | :-- | :------ |
+| Jimmy    |  Honda Civic   |     Drilled Hole In Gas Tank    |
+| Kayla    |     |         |
+| Bart     |     |         |
+| Harrison |     |         |
 

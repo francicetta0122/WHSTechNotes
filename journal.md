@@ -105,3 +105,9 @@ The application also serves as a trusted advisor in that it analyzes past perfor
 # february 18, 2025
 
 i have learned a lot of new things about the skin care and why the acne occurs.
+
+# february 24, 2025
+
+The role of technology is crucial in responding to the challenge of language barriers in today's generation, and in helping professionals keep up to speed on the constantly evolving vocabulary employed by youth. Instagram and TikTok provide considerable amounts of contemporary vocabulary, thus enabling professionals to analyze and grasp youth's linguistic predispositions. In addition, artificial intelligence-powered applications and tools provide for word-for-word vocabulary translations in an instant, thus enabling adults to interact and converse effectively and naturally with youths. Such an approach, apart from expanding understanding, communicates to youths that their linguistic options and culture expressions are valued and recognized.
+
+The integration of slang tools in learning settings is both challenging and rewarding. These tools have the ability to improve understanding but have a strong potential to contribute to misunderstanding or simplification in interpretation and expression of slang, leading to misconceptions. In addition, their informal nature may oppose professional norms in learning and mentorship settings. As such, while informal observation and understanding of slang may have benefits, using an approach where there is free conversation regarding languages while, in parallel, structured teaching is conducted may prove to be the most efficient way to promote bonding and maintain nuances in culture.

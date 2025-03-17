@@ -121,3 +121,8 @@ The integration of slang tools in learning settings is both challenging and rewa
 | Thorne  |Invisibility |Underwater Rescue|
 | Silver  |Telekinesis |Secure Building
 | Tangier |Miind Control|Extract Prisioner|
+
+# march 17, 2025
+*I have not use technology on this spring break because i was practicing golf for a tournament.
+* Anything because i did not use technology.
+* i dont really know.

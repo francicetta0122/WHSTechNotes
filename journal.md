@@ -146,3 +146,9 @@ The most beneficial feature of an AI tutor for me in particular would be its abi
 
 # april 14, 2025
 This is a free week.
+# april 28, 2025
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    |    Chocolate    |  Graduation   |   35.00    | 
+| Michael  |    Vanilla    |   Farrewell Party       |  37.00     | 
+| Emma     |   Carrot     |  Birthday        |  39.00     | 

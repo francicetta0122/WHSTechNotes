@@ -150,5 +150,5 @@ This is a free week.
 | Name     | Flavor | Occasion | Price |
 | :------- | :----- | :------- | :---- |
 | Sally    |    Chocolate    |  Graduation   |   35.00    | 
-| Michael  |    Vanilla    |   Farrewell Party       |  37.00     | 
+| Michael  |    Vanilla    |   Farewell Party       |  37.00     | 
 | Emma     |   Carrot     |  Birthday        |  39.00     | 

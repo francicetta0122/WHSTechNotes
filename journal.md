@@ -163,3 +163,10 @@ The virality of such challenges raises important ethical considerations regardin
 The "Chromebook Challenge" is an unlawful phenomenon that poses a very real threat to property as well as people. This type of act, which involves inserting external items into USB ports, is not only risky, but it can also have very serious effects, from damaging devices to endangering potential fires and, most of all, inflicting personal injury. For instance, there have been documented cases where such behaviors have led to electrical short circuits or over-heating and, as a result, have resulted in fires in homes or schools. As future digital citizens and professionals in the tech industry, we should understand that we affect reality both online and offline. Participating or inciting such challenges undermines technology use integrity and can lead to costly repair or replacement, eventually affecting the learning environment and facilities for all the students.
 
 Safety and appropriate use of technology are paramount in developing a productive learning environment. Through mindful misuse of school technology, we jeopardize not only our own learning experience but others' as well. Schools invest much in technology in aid of learning, and thoughtless behavior will lead to loss of these beneficial resources. Second, making an individual who considers it a joke realize the ramifications of such an act in reality is crucial. It is essential to alert that apparently harmless play can have serious repercussions, like disciplinary measures in school, financial exposures to damages, and the breakdown of confidence in the correct use of technology. Through the establishment of a culture of respect and responsibility towards technology, we can render our learning environment more secure and productive for everyone.
+ # may 13, 2025
+
+ | Name   | Age | Toy |
+| :----- | :-- | :-- |
+| Max    |   3 years  |  Train   | 
+| Kylie  |  4 years   |  Dinosaur   |
+| Emma   |  5 years   |  Plush Dog   |

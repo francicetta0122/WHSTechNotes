@@ -170,3 +170,7 @@ Safety and appropriate use of technology are paramount in developing a productiv
 | Max    |   3 years  |  Train   | 
 | Kylie  |  4 years   |  Dinosaur   |
 | Emma   |  5 years   |  Plush Dog   |
+
+# may 19, 2025
+
+Yes, actually i want to go to work with my father to earn some money and buy a new computer.
